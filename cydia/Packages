@@ -1,4 +1,23 @@
 Package: com.pulandres.autotouch
+Version: 5.1.0-3
+Architecture: iphoneos-arm
+Maintainer: Pulandres
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2)
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: ./debs//com.pulandres.autotouch_5.1.0-3_iphoneos-arm.deb
+Size: 22519998
+MD5sum: 2f543accaa594e8443cf93bfcf718bcb
+SHA1: 644f0a8db2b87f49d03bfd871d381ba896854121
+SHA256: 28364cf2f32e9fbb2a32abf983fe7e12fd8b527012fa67e2dea588f952d9ebb5
+Section: Tweaks
+Priority: optional
+Description: Automation touches iOS
+Author: Kent Krantz <kentkrantz@gmail.com>
+Depiction: https://pulandres.me/repo/index.php?pid=139
+Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
+Name: AutoTouch Cracked
+
+Package: com.pulandres.autotouch
 Version: 5.1.5
 Architecture: iphoneos-arm
 Maintainer: Pulandres
