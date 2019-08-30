@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: Pulandres
 Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2)
 Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
-Filename: ./debs//com.pulandres.autotouch_5.1.0-3_iphoneos-arm.deb
+Filename: ./debs/com.pulandres.autotouch_5.1.0-3_iphoneos-arm.deb
 Size: 22519998
 MD5sum: 2f543accaa594e8443cf93bfcf718bcb
 SHA1: 644f0a8db2b87f49d03bfd871d381ba896854121
@@ -17,30 +17,12 @@ Depiction: https://pulandres.me/repo/index.php?pid=139
 Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
 Name: AutoTouch Cracked
 
-Package: com.pulandres.autotouch
-Version: 5.1.5
-Architecture: iphoneos-arm
-Maintainer: Pulandres
-Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2)
-Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
-Filename: ./debs//com.pulandres.autotouch_5.1.5_iphoneos-arm.deb
-Size: 17760256
-MD5sum: 6fe118769cbfcfe531f742d7e6051e0a
-SHA1: 757c8c44d66959be70b818d9ce3ce6ba2d505360
-SHA256: 0cea6841f4b5f408d0006fcb3c7a2df18b6dac8e76fd9cb4dcad122321379b36
-Section: Utilities
-Description: Automation touches iOS
-Author: Kent Krantz <kentkrantz@gmail.com>
-Depiction: https://pulandres.me/repo/index.php?pid=320
-Name: AutoTouch Cracked
-Sileodepiction: https://pulandres.me/repo/sileo.php?pid=320
-
 Package: com.vsz.localssh
 Version: 1.0-3
 Architecture: iphoneos-arm
 Maintainer: T.Herak <50dc856b@opayq.com>
 Depends: openssh
-Filename: ./debs//com.vsz.localssh_1.0-3_iphoneos-arm.deb
+Filename: ./debs/com.vsz.localssh_1.0-3_iphoneos-arm.deb
 Size: 1616
 MD5sum: a3002c47afd3a1757bb47727dc3c4e11
 SHA1: be3a4b085358b3bd343f044cd1f1c5487dfc3247
@@ -57,7 +39,7 @@ Version: 1.0.3
 Architecture: iphoneos-arm
 Maintainer: T.Herak <50dc856b@opayq.com>
 Depends: bash (>= 4.0.17-13), coreutils (>= 8.12-12p), grep (>= 2.5.4-3), sed (>= 4.1.5-7), gawk (>= 3.1.6-2p), apt7 (>= 0.7.25.3-6)
-Filename: ./debs//com.vsz.redeb_1.0.3_iphoneos-arm.deb
+Filename: ./debs/com.vsz.redeb_1.0.3_iphoneos-arm.deb
 Size: 3572
 MD5sum: b5aa8718f90044be937b72d9f4e7a1f5
 SHA1: 912a6cf3cea1c725df51bb54ad4f849f27bdfa08
@@ -75,7 +57,7 @@ Architecture: iphoneos-arm
 Maintainer: T.Herak
 Installed-Size: 192
 Depends: mobilesubstrate
-Filename: ./debs//com.vsz.vobec_0.0.1-24_iphoneos-arm.deb
+Filename: ./debs/com.vsz.vobec_0.0.1-24_iphoneos-arm.deb
 Size: 11748
 MD5sum: 7d39228346df475e64628b2737bb0192
 SHA1: 128f72f8d63e256c187bbcc09a6ffd9928e21b0f
@@ -84,4 +66,25 @@ Section: Tweaks
 Description: remove SB folder blur and SB icon mask blur.
 Author: T.Herak
 Name: vobec
-Depiction: https://wiety.github.io/cydia/depictions/?p=com.vsz.vobec
+
+Package: ru.rejail.autotouch
+Version: 5.1.5k
+Architecture: iphoneos-arm
+Maintainer: ReJail <rejail@rejail.ru>
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2)
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: ./debs/ru.rejail.autotouch_5.1.5k_iphoneos-arm.deb
+Size: 45060302
+MD5sum: 91351850badf698e9ba6397736b15ee4
+SHA1: 747ea2d6e9d4de794ba90ec2457fcfdf8e062ab4
+SHA256: b5f67206975bc2dd4e43914520236fe9197c595b823afbf3e3e48b0a7fbde98e
+Section: Utilities
+Priority: optional
+Homepage: http://rejail.ru/pack/autotouch
+Description: Автокликер для iOS
+Author: Kent Krantz <kentkrantz@gmail.com>
+Depiction: http://rejail.ru/depiction.php?file=autotouch
+Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
+Name: AutoTouch
+Sileodepiction: http://rejail.ru/sileo/depiction.php?file=autotouch
+
