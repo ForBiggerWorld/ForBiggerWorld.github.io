@@ -5,10 +5,10 @@ Maintainer: Pulandres
 Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2)
 Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
 Filename: ./debs/com.pulandres.autotouch_5.1.0-3_iphoneos-arm.deb
-Size: 22519998
-MD5sum: 2f543accaa594e8443cf93bfcf718bcb
-SHA1: 644f0a8db2b87f49d03bfd871d381ba896854121
-SHA256: 28364cf2f32e9fbb2a32abf983fe7e12fd8b527012fa67e2dea588f952d9ebb5
+Size: 24281436
+MD5sum: 22d6ff7ddb8beb33ed444ade896aaaef
+SHA1: 9ac1fc448064047a33d689652f0764aa7d2e7f95
+SHA256: 9ce57883c4a2afb8fd6b4615d28e380f88cfdce3a8d6100af426275a47b9b135
 Section: Tweaks
 Priority: optional
 Description: Automation touches iOS
