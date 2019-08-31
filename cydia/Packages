@@ -1,3 +1,28 @@
+Package: com.johncoates.Flex3
+Version: 3~EarlyAccess4
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 57210
+Depends: mobilesubstrate, firmware (>= 9.0), com.rpetrich.rocketbootstrap
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, Flex3, Flex3beta, flex3featurecatalog
+Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, Flex3, Flex3beta, flex3featurecatalog
+Filename: ./debs/com.johncoates.flex3_3~EarlyAccess4_iphoneos-arm.deb
+Size: 12480092
+MD5sum: 100aa80ca81f53bf20251f2aac724f7a
+SHA1: d7f1e729546546b631c159f6c8661df861b8ac6a
+SHA256: d648c351186e46020ede6106a952c6eec1c34776083e4e30109bc84e4c188e31
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=flex3Dp
+Description: Develop your own tweaks and share them on the Flex Community Cloud
+Tag: purpose::extension, compatible::ios9, compatible::ios10
+Author: John Coates <john@johncoates.me>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=flex3Dp
+Dev: acapulco1988
+Icon: file:///Applications/Flex.app/AppIcon29x29@2x.png
+Name: Flex 3
+Recommended: com.modmyi.libswift4 (>= 4.0.3)
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.pulandres.autotouch
 Version: 5.1.0-3
 Architecture: iphoneos-arm
